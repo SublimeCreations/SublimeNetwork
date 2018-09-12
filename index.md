@@ -1,12 +1,11 @@
 ## Design
 
 Sublime Network is a fast and scalable multiplayer game server for unity3d and unreal engine 4 games. Sublime Network was designed for high concurrent users through multi server architecture while maintaning ease of use. Create a large world spread out over multiple servers and seamlessly transitio between them. Or create a scalable and robust match based game. Some of its key features include
-```markdown
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
-```
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
