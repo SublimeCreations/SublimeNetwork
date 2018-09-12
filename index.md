@@ -3,6 +3,9 @@
 Sublime Network is a fast and scalable multiplayer game server for unity3d and unreal engine 4 games. Sublime Network was designed for high concurrent users through multi server architecture while maintaning ease of use. Create a large world spread out over multiple servers and seamlessly transitio between them. Or create a scalable and robust match based games. 
 
 Some of its key features include
+* Only pay for what you use.
+  * The Modular design of Sublime Network makes it so if you don't need a feature it can be unloaded
+  leaving you with 0 overhead for systems not in use.
 * Run your server without a unity or unreal instance. To save prescious resources.
   * Server side physics.
   * Server side navigation. Easily generate your servers navmesh with the click of a button.
@@ -12,15 +15,15 @@ Some of its key features include
   * Easily configure how often and when entities interact over the network
 * Server side scripting with Pawn.
   * Pawn is a FAST typeless scripting language that forces you to write data oriented code.
-  * All memory allocations done up front to prevent stutters.
-  * Simple easy c like syntax. Without the need to manage memory.
+  * No garbage collector so you don't have to worry about stutters.
+  * No need for memeory management.
+  * Simple easy to use c like syntax. 
 * Save bandwidth with protocol buffers.
+* Code generator to save time writing bootstrap code.
+* The plugin system allows you to easily extend Sublime Network as well as disable unused modules.
 
 
- 
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
