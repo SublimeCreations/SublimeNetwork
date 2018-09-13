@@ -14,14 +14,16 @@ Some of its key features include
 * Interest management through spatial hashing.
   * Easily configure how often and when entities interact over the network
 * Server side scripting with Pawn.
+  * Compiler can automatically 
   * Pawn is a FAST typeless scripting language that forces you to write data oriented code.
   * No garbage collector so you don't have to worry about stutters.
   * No need for memeory management.
   * Simple easy to use c like syntax. 
 * Save bandwidth with protocol buffers.
 * Code generator to save time writing bootstrap code.
-* The plugin system allows you to easily extend Sublime Network as well as disable unused modules.
-
+* The plugin system allows you to easily extend Sublime Network as well as disable unused modules to save resources.
+* Flow graph script editor(similar to unreal engine 4s blueprints) that generates optimized pawn scripts.(Still a work in progress)
+  * When this is finished pawn will start building as assembler instead of byte code making it run event faster.
 
 
 
