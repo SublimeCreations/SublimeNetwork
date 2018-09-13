@@ -1,7 +1,8 @@
-## Design
+# Design
 
 Sublime Network is a fast and scalable multiplayer game server for unity3d and unreal engine 4 games. Sublime Network was designed for high concurrent users through multi server architecture while maintaning ease of use. Create a large world spread out over multiple servers and seamlessly transitio between them. Or create a scalable and robust match based games. 
 
+## Features
 Some of its key features include
 * Only pay for what you use.
   * The Modular design of Sublime Network makes it so if you don't need a feature it can be unloaded
