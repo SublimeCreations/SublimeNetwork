@@ -26,7 +26,7 @@ Some of its key features include
 * Flow graph script editor(similar to unreal engine 4s blueprints) that generates optimized pawn scripts.(Still a work in progress)
   * When this is finished pawn will start building as assembler instead of byte code making it run event faster.
 
-
+This is only some of Sublime Networks features. There is much more included and features are being added daily.
 
 ### Markdown
 
